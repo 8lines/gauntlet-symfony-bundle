@@ -1,6 +1,6 @@
 {
   "repository": "8lines/gauntlet",
-  "commit": "a1995b38587d65cb872f2b69ef0f5c84557aac37",
+  "commit": "77625de4b4429f93bdeb6f049694b299ab24ce07",
   "path": "packages/php/symfony-bundle",
-  "version": "0.1.2"
+  "version": "0.1.6"
 }
